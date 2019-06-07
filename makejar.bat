@@ -1,0 +1,1 @@
+jar -cvf Fast_Morphology.jar -C plugins\ .
